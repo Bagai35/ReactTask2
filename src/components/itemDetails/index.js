@@ -1,3 +1,3 @@
-import CharDetails, {Filef} from './itemDetails'
-export {Filed};
+import CharDetails, { Filed } from './itemDetails'
+export { Filed };
 export default CharDetails;
